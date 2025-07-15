@@ -1,0 +1,11 @@
+
+        REÇU DE PAIEMENT SCOLAIRE
+        ========================================
+        Élève: Khadim Fall
+        Classe: T
+        Montant: 7000 FCFA
+        Mois: avril
+        Méthode: Virement
+        Date: 14/07/2025 23:06
+        ========================================
+        

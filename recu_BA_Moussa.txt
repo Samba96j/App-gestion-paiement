@@ -1,0 +1,11 @@
+
+        REÇU DE PAIEMENT SCOLAIRE
+        ========================================
+        Élève: Moussa BA
+        Classe: T
+        Montant: 1000 FCFA
+        Mois: mai
+        Méthode: Mobile Money
+        Date: 14/07/2025 23:04
+        ========================================
+        
