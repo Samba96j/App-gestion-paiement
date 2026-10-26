@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Build / distribution
+build/
+dist/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+sdist/
+parts/
+var/
+lib/
+lib64/
+
+# Secrets et configuration locale
+.env
+
+# Données générées par l'application
+data/utilisateurs.json
+data/*.csv
+data/backups/
+data/exports/
+database.db
+app.log
+
+# Reçus générés
+recu_*.txt
+recu_*.pdf
